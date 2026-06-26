@@ -1,0 +1,3 @@
+[submodule "sylveon_3d"]
+	path = sylveon_3d
+	url = https://github.com/PustakP/sylveon_3d.git
